@@ -1,4 +1,4 @@
-## <span style="color: blue;">Teks ini berwarna biru</span>
+## IDENTITAS
 Nama = Jalaludin Mufadhol Al Faruq <br>
 NIM = 124140154 <br>
 Platform Desktop & Web <br>
