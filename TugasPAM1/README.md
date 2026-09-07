@@ -1,4 +1,4 @@
-## <span style ="color "red;"> IDENTITAS <\span>
+## <span style ="color : red;"> IDENTITAS <\span>
 Nama = Jalaludin Mufadhol Al Faruq <br>
 NIM = 124140154 <br>
 Platform Desktop & Web <br>
