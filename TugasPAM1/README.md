@@ -1,4 +1,4 @@
-## IDENTITAS
+## TUGAS 1 Pengembangan Aplikasi Mobile
 Nama = Jalaludin Mufadhol Al Faruq <br>
 NIM = 124140154 <br>
 Platform Desktop & Web <br>
