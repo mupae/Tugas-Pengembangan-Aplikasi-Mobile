@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=NewFeedSimulator
+PRODUCT_BUNDLE_IDENTIFIER=com.example.newfeedsimulator.NewFeedSimulator$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
