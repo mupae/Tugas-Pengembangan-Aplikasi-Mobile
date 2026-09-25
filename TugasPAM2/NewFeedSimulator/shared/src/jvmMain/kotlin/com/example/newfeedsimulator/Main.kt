@@ -18,13 +18,11 @@ fun main() = runBlocking {
 
     val newFlow = flow {
         var id = 1
-        // Perbaikan: Memisahkan setiap elemen kategori menjadi string yang berbeda
         val kategori = listOf("Kriminal", "Teknologi", "Politik", "Game")
 
         while (true) {
             delay(2000)
             val beritaBaru = Berita(id, kategori.random())
-            // Perbaikan: Simbol template string adalah '$', bukan '&'. Typo 'kategoti' diperbaiki.
             println("Berita baru : ${beritaBaru.kategori}")
             emit(beritaBaru)
             id++
