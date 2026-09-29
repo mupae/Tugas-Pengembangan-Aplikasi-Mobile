@@ -1,4 +1,4 @@
-# TUGAS 1 Pengembangan Aplikasi Mobile
+# TUGAS 2 Pengembangan Aplikasi Mobile
 ## Nama = Jalaludin Mufadhol Al Faruq <br>
 ## NIM = 124140154 <br>
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/abcfd460-d66d-45de-b02d-4cffd1ac398d" />
