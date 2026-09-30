@@ -65,35 +65,19 @@ fun App() {
                     Column(modifier = Modifier.padding(16.dp)) {
                         InfoItem(label = "Email", value = "jalaludin.124140154@student.itera.ac.ic")
 
-                        HorizontalDivider(
-                            color = Color.LightGray,
-                            thickness = 1.dp,
-                            modifier = Modifier.padding(vertical = 10.dp)
-                        )
+                        Spacer(modifier = Modifier.height(24.dp))
 
                         InfoItem(label = "Phone", value = "+62 895-0899-7890")
 
-                        HorizontalDivider(
-                            color = Color.LightGray,
-                            thickness = 1.dp,
-                            modifier = Modifier.padding(vertical = 10.dp)
-                        )
+                        Spacer(modifier = Modifier.height(24.dp))
 
                         InfoItem(label = "Location", value = "Lampung Selatan, Lampung")
 
-                        HorizontalDivider(
-                            color = Color.LightGray,
-                            thickness = 1.dp,
-                            modifier = Modifier.padding(vertical = 10.dp)
-                        )
+                        Spacer(modifier = Modifier.height(24.dp))
 
                         LinkedItem(label = "Instagram", value = "mupae256", link = "https://www.instagram.com/mupae_256?stkn=MTU2ZjRndXJ5emE3cw==")
 
-                        HorizontalDivider(
-                            color = Color.LightGray,
-                            thickness = 1.dp,
-                            modifier = Modifier.padding(vertical = 10.dp)
-                        )
+                        Spacer(modifier = Modifier.height(24.dp))
 
                         LinkedItem(label = "TikTok", value = "mupae_256", link = "https://www.tiktok.com/@mupae_256?_r=1&_t=ZS-9A8cK5dY8jx")
                     }
