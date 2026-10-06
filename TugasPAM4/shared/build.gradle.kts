@@ -33,7 +33,7 @@ kotlin {
     }
     
     android {
-       namespace = "com.tugas.tugaspam3.shared"
+       namespace = "com.tugas.tugaspam4.shared"
        compileSdk = libs.versions.android.compileSdk.get().toInt()
        minSdk = libs.versions.android.minSdk.get().toInt()
     

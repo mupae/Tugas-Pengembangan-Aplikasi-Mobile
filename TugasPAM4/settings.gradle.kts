@@ -1,4 +1,4 @@
-rootProject.name = "TugasPAM3"
+rootProject.name = "TugasPAM4"
 
 pluginManagement {
     repositories {

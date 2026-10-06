@@ -17,11 +17,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "com.tugas.tugaspam3.MainKt"
+        mainClass = "com.tugas.tugaspam4.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "com.tugas.tugaspam3"
+            packageName = "com.tugas.tugaspam4"
             packageVersion = "1.0.0"
         }
     }

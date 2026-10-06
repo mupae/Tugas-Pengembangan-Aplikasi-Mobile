@@ -20,11 +20,11 @@ dependencies {
 }
 
 android {
-    namespace = "com.tugas.tugaspam3"
+    namespace = "com.tugas.tugaspam4"
     compileSdk = libs.versions.android.compileSdk.get().toInt()
 
     defaultConfig {
-        applicationId = "com.tugas.tugaspam3"
+        applicationId = "com.tugas.tugaspam4"
         minSdk = libs.versions.android.minSdk.get().toInt()
         targetSdk = libs.versions.android.targetSdk.get().toInt()
         versionCode = 1
