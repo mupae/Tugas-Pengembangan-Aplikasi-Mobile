@@ -2,7 +2,7 @@
 ## Nama = Jalaludin Mufadhol Al Faruq 
 ## NIM = 124140154 
 
-### Tampilan di preview dan desktop
+### Tampilan di preview
 
 <p align="center">
   <img width="438" height="960" alt="image" src="https://github.com/user-attachments/assets/12752c3c-13fc-4ae6-804d-cc43d252ca56" />
